@@ -39,7 +39,6 @@ apis:
   - name: Duply
     description: "Generate, Edit, Scale and Manage Images and Videos Smarter & Faster"
     humanURL: https://duply.co/docs#getting-started-api
-    baseURL: https://duply.co/docs#getting-started-api
     tags:
       - Photography
     properties:
